@@ -1,3 +1,3 @@
 This file is a python notebook, containing both code and solutions to Task 5. Run in Vscode or any program capable of running python notebooks. Requirements for the python installation is numpy and whatever is required for notebooks.
 
-If you can't run the notebook for some reason, a static version is available on my github: https://github.com/villekjellqvist/Matrix-Algebra-Python/blob/8110b30aa9938c21e4e3edae43cfacf1d0b0020d/HW3/HW3_Ville_Kjellqvist_Task5.ipynb
+If you can't run the notebook for some reason, a static version is available on my github: https://github.com/villekjellqvist/Matrix-Algebra-Python/blob/8110b30aa9938c21e4e3edae43cfacf1d0b0020d/HW3/HW3_Ville_Kjellqvist_Task5.ipynb	
